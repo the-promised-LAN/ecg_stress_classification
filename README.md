@@ -29,5 +29,9 @@ Note: Using Leave-One-Subject-Out (LOSO) evaluation paradigm for all
 #### Other
 - [InceptionTime.py](https://github.com/the-promised-LAN/ecg_stress_classification/blob/main/inceptionTime.py) - InceptionTime model 
 
+#### Visualization
+- [results_visualization.ipynb](https://github.com/the-promised-LAN/ecg_stress_classification/blob/main/results_visualization.ipynb) - Visualizing training and validation accuracy and loss across different LOSO users with different preprocessing techniques. _Can be adapted for general training visualization too!_ Sample plot seen below:
+![plots](https://github.com/the-promised-LAN/ecg_stress_classification/blob/main/plots/rp_1seconds_loss_accuracy)
+
 ## References
 - InceptionTime - https://github.com/hfawaz/InceptionTime
